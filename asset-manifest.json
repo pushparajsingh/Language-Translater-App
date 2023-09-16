@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Language-Translater-App/static/css/main.d57ada23.css",
+    "main.js": "/Language-Translater-App/static/js/main.0090a077.js",
+    "static/js/787.d3befce1.chunk.js": "/Language-Translater-App/static/js/787.d3befce1.chunk.js",
+    "static/media/Translater.png": "/Language-Translater-App/static/media/Translater.d71f090a731783971601.png",
+    "index.html": "/Language-Translater-App/index.html",
+    "main.d57ada23.css.map": "/Language-Translater-App/static/css/main.d57ada23.css.map",
+    "main.0090a077.js.map": "/Language-Translater-App/static/js/main.0090a077.js.map",
+    "787.d3befce1.chunk.js.map": "/Language-Translater-App/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57ada23.css",
+    "static/js/main.0090a077.js"
+  ]
+}
